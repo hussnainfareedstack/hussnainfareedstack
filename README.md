@@ -16,7 +16,7 @@
 
 
 
-I am a Full Stack Developer with a huge passion for emerging technologies like Blockchain, Meta, Artificial Intelligence, and Web 3.0. I have expertise in HTML, CSS, JavaScript, React.js and learning new things like Blockchain, Python, and AI chatbots. Currently, I'm open to work and employment opportunities as a Fresh Graduate.
+I am a Full Stack Developer with a huge passion for emerging technologies like Blockchain, Meta, Artificial Intelligence, and Web 3.0. I have expertise in HTML, CSS, JavaScript, React.js and learning new things like Blockchain, Python, and AI chatbots. <strong><em>Currently, I'm open to work and employment opportunities as a Fresh Graduate.</em></strong>
 
 My Portfolio URL: https://hussnainfareed.com
 
