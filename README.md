@@ -35,6 +35,8 @@ My Portfolio URL: https://hussnainfareed.com
 ![Static Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhussnainfareeddev%2F)
 ![Static Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https%3A%2F%2Fwww.facebook.com%2FhussnainfareedDev%2F)
 
+
+![](https://hit.yhype.me/github/profile?user_id=106341319)
 <!--![Static Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https%3A%2F%2Ftwitter.com%2FMHFDev)
   ![Static Badge]()  -->
 
