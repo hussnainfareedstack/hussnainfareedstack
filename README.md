@@ -18,15 +18,15 @@
 
 
 
-I am a Full Stack Developer with a huge passion for emerging technologies like Blockchain, Meta, Artificial Intelligence, and Web 3.0. I have expertise in HTML, CSS, JavaScript, React.js and learning new things like Blockchain, Python, and AI chatbots. <strong><em>Currently, I'm open to work and employment opportunities as a Fresh Graduate.</em></strong>
+I am a Full Stack Developer passionate about emerging technologies like Blockchain, Meta, Artificial Intelligence, and Web 3.0. I have expertise in .NET Desktop Development, WIX Installer, Windows Installer creation, and React.js. <strong><em>I'm open to exciting opportunities.</em></strong>
 
 My Portfolio URL: https://hussnainfareed.com
 
 <!--Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on building some Portfolio Projects with HTML, CSS, JavaScript, and React.js.
-- 🌱 I’m currently learning JavaScript, Blockchain, Python, and AI.
-- 👯 I’m currently open for work and employment opportunities (onsite, remote, and relocation) as a Software Engineer (Fresher).
+- 🔭 I working as a Full Stack Developer in .Net Desktop Development.
+- 🌱 I’m currently learning Ruby on Rails.
+- 👯 Open for exciting opportunities.
 - 💬 Ask me about or take my help in resolving issues related to programming, Google, and Meta issues (ads account, disabled, suspended). 
 - 📫 You can reach me via mail at hussnainfareed@outlook.com or via my social accounts listed at the bottom.
 - 😄 Pronouns: He, Emerging Tech Enthusiastic
