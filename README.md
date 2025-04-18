@@ -18,13 +18,13 @@
 
 
 
-I am a Full Stack Developer passionate about emerging technologies like Blockchain, Meta, Artificial Intelligence, and Web 3.0. I have expertise in .NET Desktop Development, WIX Installer, Windows Installer creation, and React.js. <strong><em>I'm open to exciting opportunities.</em></strong>
+Experienced C# .NET Windows desktop application developer with a strong focus on building robust installers (Wix Toolset) and implementing seamless auto-update mechanisms. Proficient in creating user-friendly interfaces with ReactJS, backed by 3–4 months of hands-on experience. Passionate about frontend development, desktop app engineering, and exploring the DevOps ecosystem.  <strong><em>I'm open to exciting opportunities.</em></strong>
 
 My Portfolio URL: https://hussnainfareed.com
 
 <!--Here are some ideas to get you started:-->
 
-- 🔭 I working as a Full Stack Developer in .Net Desktop Development.
+- 🔭 I working as a Software Developer in .NET Desktop Development.
 - 🌱 I’m currently learning Ruby on Rails.
 - 👯 Open for exciting opportunities.
 - 💬 Ask me about or take my help in resolving issues related to programming, Google, and Meta issues (ads account, disabled, suspended). 
